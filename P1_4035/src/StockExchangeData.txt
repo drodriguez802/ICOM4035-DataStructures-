@@ -1,0 +1,5 @@
+==Companies==
+Honeywell HON 39.45 12000 
+==StockHolders==
+StockHolder: Daniel e13183d6-5689-4350-b905-2e7d9cf9efb7 
+hon 2355 6.325 
